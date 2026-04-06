@@ -86,27 +86,29 @@ GPA: **3.36 / 4.00**
 
 ## 🚀 Featured Projects
 
-### 🔗 [Portfolio Website](https://darshan-portfolio-navy.vercel.app)
-- Modern portfolio built with Next.js, TypeScript, and Tailwind CSS.
-- Includes unified SDE + AI narrative, animated sections, and role-relevant project showcase.
+### 🔗 [Portfolio Website (live)](https://darshan-portfolio-navy.vercel.app) · [GitHub](https://github.com/Sonawane07/Portfolio)
+- Next.js + TypeScript + Tailwind portfolio with animated sections, project cards, and hosted resume PDFs.
 
-### 🔗 AutoRAG Studio — Multi-Agent RAG Platform *(WIP)*
-- Full-stack multi-agent RAG platform using Django, FastAPI, React, ChromaDB, LocalStack, and Ollama.
-- Supports isolated agents, ingestion/retrieval pipelines, and runtime query orchestration.
-- Includes testing and observability endpoints for governance and reliability.
+### 🔗 [Incident Handoff Platform](https://github.com/Sonawane07/Incident-handoff)
+- Full-stack incident management with FastAPI, React, Supabase, Redis, Celery; async AI summarization (**42%** faster handoff prep, **99.3%** reliability).
 
-### 🔗 Incident Handoff Platform — AI-Assisted On-Call Collaboration
-- Full-stack incident management platform using FastAPI, React, Supabase, Redis, and Celery.
-- Built async AI summarization pipeline that reduced handoff prep time by **42%**.
-- Achieved **99.3% processing reliability** with idempotent ingestion and audit logging.
+### 🔗 [Football Analytics](https://github.com/Sonawane07/Football-Analytics)
+- Match and team analytics with Python data tooling, ML models, and visualizations.
 
-### 🔗 Pintos Operating System
-- Implemented kernel-level scheduling, synchronization, and system call modules in C.
-- Improved concurrency stability and validated with **50+ targeted test scenarios**.
+### AutoRAG Studio — Multi-Agent RAG Platform *(WIP)*
+- Django + FastAPI + React + ChromaDB + Ollama + LocalStack; multi-tenant RAG platform with isolated agents and ingestion pipelines.
 
-### 🔗 Text-to-Image Generation (Stable Diffusion + LoRA)
-- Fine-tuned Stable Diffusion v1.5 with LoRA, reducing trainable parameters by **22x**.
-- Built scalable multi-GPU training with PyTorch DDP and improved convergence speed.
+### 🔗 [Text-to-Image Generation (Stable Diffusion + LoRA)](https://github.com/Sonawane07/Text-to-Image-Generation)
+- LoRA fine-tuning and PyTorch DDP training; diffusion experiments with strong metrics vs. baselines.
+
+### E‑commerce Web App (Django + AWS) *(private / course repo)*
+- 30+ REST endpoints, PayPal, AWS (S3/RDS/Elastic Beanstalk).
+
+### 🔗 [Crop Yield Prediction](https://github.com/Sonawane07/Crop-Yield-Prediction)
+- Random Forest + SHAP; Flask + batch/real-time pipelines (Spark/Hadoop where needed).
+
+### Pintos Operating System *(course codebase)*
+- Kernel scheduling, synchronization, and syscalls in C; GDB + 50+ test scenarios.
 
 ---
 
